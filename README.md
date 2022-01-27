@@ -1,6 +1,6 @@
 # BLAS Frontend
 
 ## What is BLAS?
-BLAS is a project management application made by BASIS corporation
+BLAS is a project management application.
 
 ## MVC → React(View) + Cakephp4(RestAPI) 
