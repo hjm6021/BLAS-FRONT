@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #dacfd3;
+    border-bottom: solid 1px #5d6678;
+    .logo {
+        padding-left: 10px;
+        img {
+            width: 130px;
+        }
+    }
+
+    .dropdown {
+        padding-right: 10px;
+        .username {
+            font-size: 0.9rem;
+            text-align: right;
+            color: #5d6678;
+        }
+    }
+}
+
+// Remove arrow from Dropdown
+.dropdown-toggle::after {
+    display: none !important;
+}
